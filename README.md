@@ -9,4 +9,9 @@
 <code><img src = "https://icons-for-free.com/download-icon-bootstrap-1321215613501527447_512.png" height = "50px" ></code>
 <code><img src = "https://cdn.imgbin.com/11/14/8/imgbin-node-js-javascript-express-js-angularjs-random-icons-7WDWYsuHtir9S25rzrrtFBh9m.jpg" height = "50px" ></code>
 <code><img src = "https://img.favpng.com/1/17/24/react-logo-png-favpng-m00s95CAF5ngxbSc2NfvnypRP.jpg" height = "50px" ></code>
+<br />
+
+- 📍 &nbsp; Current location : Kashkadarya, Uzbekistan
+- 📞  &nbsp; telephon number : +998901907834
+- 💻 &nbsp; email adress : qahramonabdurahimov7834@gmail.com
 
